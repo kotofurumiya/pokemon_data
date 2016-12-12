@@ -665,7 +665,7 @@
       "hiddenAbility": "きんちょうかん",
       "stats": {
         "hp": "60",
-        "attack": "85",
+        "attack": "95",
         "defence": "69",
         "spAttack": "65",
         "spDefence": "79",
@@ -1364,7 +1364,7 @@
       "hiddenAbility": "すなのちから",
       "stats": {
         "hp": "35",
-        "attack": "80",
+        "attack": "100",
         "defence": "50",
         "spAttack": "50",
         "spDefence": "70",
@@ -2210,7 +2210,7 @@
       "hiddenAbility": "まけんき",
       "stats": {
         "hp": "52",
-        "attack": "65",
+        "attack": "90",
         "defence": "55",
         "spAttack": "58",
         "spDefence": "62",
@@ -2256,7 +2256,7 @@
         "defence": "70",
         "spAttack": "60",
         "spDefence": "60",
-        "speed": "100"
+        "speed": "110"
       }
     },
     {
@@ -2479,7 +2479,7 @@
       "evolutions": [],
       "type1": "ゴースト",
       "type2": "どく",
-      "ability1": "ふゆう",
+      "ability1": "のろわれボディ",
       "ability2": "",
       "hiddenAbility": "",
       "stats": {
@@ -2656,7 +2656,7 @@
         "defence": "70",
         "spAttack": "80",
         "spDefence": "80",
-        "speed": "140"
+        "speed": "150"
       }
     },
     {
@@ -2697,7 +2697,7 @@
         "attack": "95",
         "defence": "85",
         "spAttack": "125",
-        "spDefence": "65",
+        "spDefence": "75",
         "speed": "55"
       }
     },
@@ -4141,7 +4141,7 @@
         "hp": "100",
         "attack": "50",
         "defence": "50",
-        "spAttack": "76",
+        "spAttack": "86",
         "spDefence": "96",
         "speed": "70"
       }
@@ -4226,7 +4226,7 @@
         "attack": "90",
         "defence": "70",
         "spAttack": "60",
-        "spDefence": "60",
+        "spDefence": "70",
         "speed": "40"
       }
     },
@@ -5164,7 +5164,7 @@
       "stats": {
         "hp": "65",
         "attack": "95",
-        "defence": "75",
+        "defence": "85",
         "spAttack": "55",
         "spDefence": "55",
         "speed": "85"
@@ -5368,10 +5368,10 @@
       "ability2": "ほのおのからだ",
       "hiddenAbility": "くだけるよろい",
       "stats": {
-        "hp": "50",
+        "hp": "60",
         "attack": "50",
         "defence": "120",
-        "spAttack": "80",
+        "spAttack": "90",
         "spDefence": "80",
         "speed": "30"
       }
@@ -5432,11 +5432,11 @@
       "ability2": "しぜんかいふく",
       "hiddenAbility": "さいせいりょく",
       "stats": {
-        "hp": "55",
+        "hp": "65",
         "attack": "55",
-        "defence": "85",
+        "defence": "95",
         "spAttack": "65",
-        "spDefence": "85",
+        "spDefence": "95",
         "speed": "35"
       }
     },
@@ -5514,7 +5514,7 @@
       "ability2": "ちょすい",
       "hiddenAbility": "みずのベール",
       "stats": {
-        "hp": "65",
+        "hp": "85",
         "attack": "40",
         "defence": "70",
         "spAttack": "80",
@@ -5888,7 +5888,7 @@
       "type2": "",
       "ability1": "プレッシャー",
       "ability2": "",
-      "hiddenAbility": "ちくでん",
+      "hiddenAbility": "せいしんりょく",
       "stats": {
         "hp": "90",
         "attack": "85",
@@ -5908,7 +5908,7 @@
       "type2": "",
       "ability1": "プレッシャー",
       "ability2": "",
-      "hiddenAbility": "もらいび",
+      "hiddenAbility": "せいしんりょく",
       "stats": {
         "hp": "115",
         "attack": "115",
@@ -5928,7 +5928,7 @@
       "type2": "",
       "ability1": "プレッシャー",
       "ability2": "",
-      "hiddenAbility": "ちょすい",
+      "hiddenAbility": "せいしんりょく",
       "stats": {
         "hp": "100",
         "attack": "75",
@@ -6690,7 +6690,7 @@
         "hp": "60",
         "attack": "85",
         "defence": "60",
-        "spAttack": "50",
+        "spAttack": "75",
         "spDefence": "50",
         "speed": "125"
       }
@@ -6706,7 +6706,7 @@
       "type1": "みず",
       "type2": "ひこう",
       "ability1": "するどいめ",
-      "ability2": "",
+      "ability2": "うるおいボディ",
       "hiddenAbility": "あめうけざら",
       "stats": {
         "hp": "40",
@@ -6726,13 +6726,13 @@
       "type1": "みず",
       "type2": "ひこう",
       "ability1": "するどいめ",
-      "ability2": "",
+      "ability2": "あめふらし",
       "hiddenAbility": "あめうけざら",
       "stats": {
         "hp": "60",
         "attack": "50",
         "defence": "100",
-        "spAttack": "85",
+        "spAttack": "95",
         "spDefence": "70",
         "speed": "65"
       }
@@ -6859,9 +6859,9 @@
         "hp": "70",
         "attack": "60",
         "defence": "62",
-        "spAttack": "80",
+        "spAttack": "100",
         "spDefence": "82",
-        "speed": "60"
+        "speed": "80"
       }
     },
     {
@@ -7222,7 +7222,7 @@
         "defence": "65",
         "spAttack": "55",
         "spDefence": "55",
-        "speed": "70"
+        "speed": "90"
       }
     },
     {
@@ -7567,9 +7567,9 @@
       "stats": {
         "hp": "65",
         "attack": "73",
-        "defence": "55",
+        "defence": "75",
         "spAttack": "47",
-        "spDefence": "75",
+        "spDefence": "85",
         "speed": "85"
       }
     },
@@ -7587,9 +7587,9 @@
       "stats": {
         "hp": "65",
         "attack": "47",
-        "defence": "55",
+        "defence": "75",
         "spAttack": "73",
-        "spDefence": "75",
+        "spDefence": "85",
         "speed": "85"
       }
     },
@@ -7832,7 +7832,7 @@
       "type1": "ほのお",
       "type2": "",
       "ability1": "しろいけむり",
-      "ability2": "",
+      "ability2": "ひでり",
       "hiddenAbility": "シェルアーマー",
       "stats": {
         "hp": "70",
@@ -8125,7 +8125,7 @@
       "ability2": "",
       "hiddenAbility": "",
       "stats": {
-        "hp": "70",
+        "hp": "90",
         "attack": "55",
         "defence": "65",
         "spAttack": "95",
@@ -8145,7 +8145,7 @@
       "ability2": "",
       "hiddenAbility": "",
       "stats": {
-        "hp": "70",
+        "hp": "90",
         "attack": "95",
         "defence": "85",
         "spAttack": "55",
@@ -8583,11 +8583,11 @@
       "ability2": "",
       "hiddenAbility": "",
       "stats": {
-        "hp": "65",
+        "hp": "75",
         "attack": "50",
-        "defence": "70",
+        "defence": "80",
         "spAttack": "95",
-        "spDefence": "80",
+        "spDefence": "90",
         "speed": "65"
       }
     },
@@ -12555,7 +12555,7 @@
       "type1": "いわ",
       "type2": "",
       "ability1": "がんじょう",
-      "ability2": "",
+      "ability2": "くだけるよろい",
       "hiddenAbility": "すなのちから",
       "stats": {
         "hp": "55",
@@ -12577,7 +12577,7 @@
       "type1": "いわ",
       "type2": "",
       "ability1": "がんじょう",
-      "ability2": "",
+      "ability2": "くだけるよろい",
       "hiddenAbility": "すなのちから",
       "stats": {
         "hp": "70",
@@ -12597,7 +12597,7 @@
       "type1": "いわ",
       "type2": "",
       "ability1": "がんじょう",
-      "ability2": "",
+      "ability2": "すなおこし",
       "hiddenAbility": "すなのちから",
       "stats": {
         "hp": "85",
@@ -12622,7 +12622,7 @@
       "ability2": "ぶきよう",
       "hiddenAbility": "たんじゅん",
       "stats": {
-        "hp": "55",
+        "hp": "65",
         "attack": "45",
         "defence": "43",
         "spAttack": "55",
@@ -13333,7 +13333,7 @@
       "hiddenAbility": "くだけるよろい",
       "stats": {
         "hp": "70",
-        "attack": "95",
+        "attack": "105",
         "defence": "125",
         "spAttack": "65",
         "spDefence": "75",
@@ -13835,7 +13835,7 @@
       "type1": "こおり",
       "type2": "",
       "ability1": "アイスボディ",
-      "ability2": "",
+      "ability2": "ゆきがくれ",
       "hiddenAbility": "くだけるよろい",
       "stats": {
         "hp": "36",
@@ -13857,7 +13857,7 @@
       "type1": "こおり",
       "type2": "",
       "ability1": "アイスボディ",
-      "ability2": "",
+      "ability2": "ゆきがくれ",
       "hiddenAbility": "くだけるよろい",
       "stats": {
         "hp": "51",
@@ -13877,7 +13877,7 @@
       "type1": "こおり",
       "type2": "",
       "ability1": "アイスボディ",
-      "ability2": "",
+      "ability2": "ゆきふらし",
       "hiddenAbility": "くだけるよろい",
       "stats": {
         "hp": "71",
@@ -14489,7 +14489,7 @@
       "type1": "こおり",
       "type2": "",
       "ability1": "ゆきがくれ",
-      "ability2": "",
+      "ability2": "ゆきかき",
       "hiddenAbility": "びびり",
       "stats": {
         "hp": "55",
@@ -14509,11 +14509,11 @@
       "type1": "こおり",
       "type2": "",
       "ability1": "ゆきがくれ",
-      "ability2": "",
+      "ability2": "ゆきかき",
       "hiddenAbility": "すいすい",
       "stats": {
         "hp": "95",
-        "attack": "110",
+        "attack": "130",
         "defence": "80",
         "spAttack": "70",
         "spDefence": "80",
@@ -14532,9 +14532,9 @@
       "ability2": "",
       "hiddenAbility": "",
       "stats": {
-        "hp": "70",
+        "hp": "80",
         "attack": "50",
-        "defence": "30",
+        "defence": "50",
         "spAttack": "95",
         "spDefence": "135",
         "speed": "105"
