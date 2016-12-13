@@ -15240,8 +15240,8 @@
     },
     {
       "no": "646",
-      "name": "ホワイトキュレム",
-      "form": "",
+      "name": "キュレム",
+      "form": "ホワイトキュレム",
       "isMegaEvolution": false,
       "evolutions": [],
       "type1": "ドラゴン",
@@ -15260,8 +15260,8 @@
     },
     {
       "no": "646",
-      "name": "ブラックキュレム",
-      "form": "",
+      "name": "キュレム",
+      "form": "ブラックキュレム",
       "isMegaEvolution": false,
       "evolutions": [],
       "type1": "ドラゴン",
