@@ -1,0 +1,26 @@
+{
+  "pokemon_data": [
+    {
+      "no": 1,
+      "name": "フシギダネ",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [
+        2
+      ],
+      "type1": "くさ",
+      "type2": "どく",
+      "ability1": "しんりょく",
+      "ability2": "",
+      "hiddenAbility": "ようりょくそ",
+      "stats": {
+        "hp": 45,
+        "attack": 49,
+        "defence": 49,
+        "spAttack": 65,
+        "spDefence": 65,
+        "speed": 45
+      }
+    }
+  ]
+}
