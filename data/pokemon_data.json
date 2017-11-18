@@ -17689,7 +17689,7 @@
       "type1": "いわ",
       "type2": "",
       "ability1": "するどいめ",
-      "ability2": "やるき",
+      "ability2": "すなかき",
       "hiddenAbility": "ふくつのこころ",
       "stats": {
         "hp": 75,
@@ -17718,6 +17718,26 @@
         "spAttack": 55,
         "spDefence": 75,
         "speed": 82
+      }
+    },
+    {
+      "no": 745,
+      "name": "ルガルガン",
+      "form": "たそがれのすがた",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "いわ",
+      "type2": "",
+      "ability1": "かたいツメ",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 75,
+        "attack": 117,
+        "defence": 65,
+        "spAttack": 55,
+        "spDefence": 65,
+        "speed": 110
       }
     },
     {
@@ -18894,6 +18914,66 @@
       }
     },
     {
+      "no": 800,
+      "name": "ネクロズマ",
+      "form": "たそがれのたてがみ",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "エスパー",
+      "type2": "はがね",
+      "ability1": "プリズムアーマー",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 97,
+        "attack": 157,
+        "defence": 127,
+        "spAttack": 113,
+        "spDefence": 109,
+        "speed": 77
+      }
+    },
+    {
+      "no": 800,
+      "name": "ネクロズマ",
+      "form": "あかつきのつばさ",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "エスパー",
+      "type2": "ゴースト",
+      "ability1": "プリズムアーマー",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 97,
+        "attack": 113,
+        "defence": 109,
+        "spAttack": 157,
+        "spDefence": 127,
+        "speed": 77
+      }
+    },
+    {
+      "no": 800,
+      "name": "ネクロズマ",
+      "form": "ウルトラネクロズマ",
+      "isMegaEvolution": true,
+      "evolutions": [],
+      "type1": "エスパー",
+      "type2": "",
+      "ability1": "ブレインフォース",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 97,
+        "attack": 167,
+        "defence": 97,
+        "spAttack": 167,
+        "spDefence": 97,
+        "speed": 129
+      }
+    },
+    {
       "no": 801,
       "name": "マギアナ",
       "form": "",
@@ -18931,6 +19011,106 @@
         "spAttack": 90,
         "spDefence": 90,
         "speed": 125
+      }
+    },
+    {
+      "no": 803,
+      "name": "ベベノム",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "どく",
+      "type2": "",
+      "ability1": "ビーストブースト",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 67,
+        "attack": 73,
+        "defence": 67,
+        "spAttack": 73,
+        "spDefence": 67,
+        "speed": 73
+      }
+    },
+    {
+      "no": 804,
+      "name": "アーゴヨン",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "どく",
+      "type2": "ドラゴン",
+      "ability1": "ビーストブースト",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 73,
+        "attack": 73,
+        "defence": 73,
+        "spAttack": 127,
+        "spDefence": 73,
+        "speed": 121
+      }
+    },
+    {
+      "no": 805,
+      "name": "ツンデツンデ",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "いわ",
+      "type2": "はがね",
+      "ability1": "ビーストブースト",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 61,
+        "attack": 131,
+        "defence": 211,
+        "spAttack": 53,
+        "spDefence": 101,
+        "speed": 13
+      }
+    },
+    {
+      "no": 806,
+      "name": "ズガドーン",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "ほのお",
+      "type2": "ゴースト",
+      "ability1": "ビーストブースト",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 53,
+        "attack": 127,
+        "defence": 53,
+        "spAttack": 151,
+        "spDefence": 79,
+        "speed": 107
+      }
+    },
+    {
+      "no": 807,
+      "name": "ゼラオラ",
+      "form": "",
+      "isMegaEvolution": false,
+      "evolutions": [],
+      "type1": "でんき",
+      "type2": "",
+      "ability1": "ちくでん",
+      "ability2": "",
+      "hiddenAbility": "",
+      "stats": {
+        "hp": 88,
+        "attack": 112,
+        "defence": 75,
+        "spAttack": 102,
+        "spDefence": 80,
+        "speed": 143
       }
     }
   ]
