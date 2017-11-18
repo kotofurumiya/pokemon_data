@@ -7,7 +7,7 @@ const validator = new PokemonDataValidator();
 const jsonStr = fs.readFileSync(dataFilePath);
 const json = JSON.parse(jsonStr);
 
-const validationResult = validator.validate(json.pokemon_data);
+const validationResult = validator.validate(json);
 
 if(validationResult.isFine) {
   console.log('正常です。エラーはありませんでした。');
