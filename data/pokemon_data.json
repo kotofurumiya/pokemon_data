@@ -22747,7 +22747,8 @@
     ],
     "abilities": [
       "するどいめ",
-      "やるき"
+      "やるき",
+      "マイペース"
     ],
     "hiddenAbilities": [
       "ふくつのこころ"
@@ -22802,7 +22803,7 @@
       "やるき"
     ],
     "hiddenAbilities": [
-      "ふくつのこころ"
+      "ノーガード"
     ],
     "stats": {
       "hp": 85,
@@ -24489,7 +24490,9 @@
     "name": "ベベノム",
     "form": "",
     "isMegaEvolution": false,
-    "evolutions": [],
+    "evolutions": [
+      804
+    ],
     "types": [
       "どく",
       ""
