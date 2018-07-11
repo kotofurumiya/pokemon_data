@@ -42,3 +42,10 @@ $ npm run format
 ```bash
 $ npm run validate
 ```
+
+## ミスを発見したら
+
+pokemon_dataは手動で入力しています。そのためデータの記載ミスが存在する場合があります。
+
+ミスを発見した際は、[issueを作成する](https://github.com/kotofurumiya/pokemon_data/issues)か、
+Twitterで[@kfurumiya](https://twitter.com/kfurumiya)宛にリプライを飛ばしてください。
