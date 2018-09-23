@@ -13416,7 +13416,7 @@
     "isMegaEvolution": false,
     "evolutions": [],
     "types": ["みず", "あく"],
-    "abilities": ["げきりゅう", ""],
+    "abilities": ["げきりゅう", "きずなへんげ"],
     "hiddenAbilities": ["へんげんじざい"],
     "stats": {
       "hp": 72,
@@ -13425,6 +13425,24 @@
       "spAttack": 103,
       "spDefence": 71,
       "speed": 122
+    }
+  },
+  {
+    "no": 658,
+    "name": "ゲッコウガ",
+    "form": "サトシゲッコウガ",
+    "isMegaEvolution": false,
+    "evolutions": [],
+    "types": ["みず", "あく"],
+    "abilities": ["きずなへんげ", ""],
+    "hiddenAbilities": [""],
+    "stats": {
+      "hp": 72,
+      "attack": 145,
+      "defence": 67,
+      "spAttack": 153,
+      "spDefence": 71,
+      "speed": 132
     }
   },
   {
