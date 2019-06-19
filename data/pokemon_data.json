@@ -6863,9 +6863,9 @@
     "form": "",
     "isMegaEvolution": false,
     "evolutions": [],
-    "types": ["くさ"],
-    "abilities": [],
-    "hiddenAbilities": [],
+    "types": ["くさ", "あく"],
+    "abilities": ["すながくれ"],
+    "hiddenAbilities": ["ちょすい"],
     "stats": {
       "hp": 70,
       "attack": 115,
